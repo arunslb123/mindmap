@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "mindmap"
+  site-url: "https://arunslb123.github.io/mindmap"
+  description: "Mindmap Python"
+  repo-branch: main
+  repo-url: "https://github.com/arunslb123/mindmap"
